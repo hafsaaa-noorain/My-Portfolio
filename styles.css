@@ -279,7 +279,7 @@ section .title::after {
 }
 
 .about .title::after {
-    content: "—Who I Am ?—";
+    content: "— Who I Am —";
     text-overflow: ellipsis;
     display: -webkit-inline-box;
     -webkit-line-clamp: 3;
@@ -353,7 +353,6 @@ section .title::after {
 .services .title::after,
 .projects .title::after {
     background: #111;
-    content: "What I Provide ?";
 }
 
 .services .serv-content .card {
@@ -403,7 +402,7 @@ section .title::after {
 }
 
 .skills .title::after {
-    content: "—What I Know ?—";
+    content: "— What I Know —";
 }
 
 .skills .skills-content .column {
@@ -508,7 +507,7 @@ section .title::after {
 
 /*  Projects  */
 .projects .title::after {
-    content: "What I did ?";
+    content: "— What I've done —";
 }
 
 .projects .carousel .card {
@@ -586,7 +585,7 @@ section .title::after {
 }
 
 .contact .title::after {
-    content: "—Get in Touch—";
+    content: "— Let's get in touch —";
 }
 
 .contact .contact-content .column {
